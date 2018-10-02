@@ -1,0 +1,6 @@
+{
+  "name": "ocaml-cross-mobile",
+  "scripts": {
+    "postinstall": "./download.sh"
+  }
+}
